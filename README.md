@@ -26,3 +26,6 @@ This project focuses on analyzing a captured PCAP file using **Wireshark** to id
 
 - Captured `POST /login` HTTP requests.
 - Extracted plaintext credentials:
+Mastered filtering and packet inspection in Wireshark.
+- Gained hands-on experience with HTTP traffic dissection.
+- Understood how attackers can leverage unencrypted data.
