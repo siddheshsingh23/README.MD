@@ -2,7 +2,7 @@
 
 This project focuses on analyzing a captured PCAP file using **Wireshark** to identify login traffic and extract sensitive credentials transmitted in cleartext.
 
-##  Objectives
+#  Objectives
 
 - Understand how network traffic reveals information.
 - Use filters in Wireshark to isolate important packets.
